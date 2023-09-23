@@ -50,7 +50,7 @@ An accessor array is defined as either an [`Array`][mdn-array], [`Typed Array`][
 ## Usage
 
 ```javascript
-import isAccessorArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-accessor-array@esm/index.mjs';
+import isAccessorArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-accessor-array@v0.1.0-esm/index.mjs';
 ```
 
 #### isAccessorArray( value )
@@ -107,7 +107,7 @@ import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@es
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
 import Complex128Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-complex128@esm/index.mjs';
 import Complex64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-complex64@esm/index.mjs';
-import isAccessorArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-accessor-array@esm/index.mjs';
+import isAccessorArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-accessor-array@v0.1.0-esm/index.mjs';
 
 var bool = isAccessorArray( new Complex128Array( 10 ) );
 // returns true
