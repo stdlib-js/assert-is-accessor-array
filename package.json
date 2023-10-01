@@ -41,8 +41,8 @@
     "@stdlib/assert-is-function": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/array-complex128": "^0.0.6",
-    "@stdlib/array-complex64": "^0.0.6",
+    "@stdlib/array-complex128": "^0.1.0",
+    "@stdlib/array-complex64": "^0.1.0",
     "@stdlib/array-float32": "^0.1.0",
     "@stdlib/array-float64": "^0.1.0",
     "@stdlib/array-int16": "^0.1.0",
