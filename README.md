@@ -186,6 +186,14 @@ bool = isAccessorArray( 3.14 );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/assert-is-array-like`][@stdlib/assert/is-array-like]</span><span class="delimiter">: </span><span class="description">test if a value is array-like.</span>
+-   <span class="package-name">[`@stdlib/assert-is-array-like-object`][@stdlib/assert/is-array-like-object]</span><span class="delimiter">: </span><span class="description">test if a value is an array-like object.</span>
+-   <span class="package-name">[`@stdlib/assert-is-collection`][@stdlib/assert/is-collection]</span><span class="delimiter">: </span><span class="description">test if a value is a collection.</span>
+
 </section>
 
 <!-- /.related -->
@@ -266,6 +274,12 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [mdn-object]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
 
 <!-- <related-links> -->
+
+[@stdlib/assert/is-array-like]: https://github.com/stdlib-js/assert-is-array-like
+
+[@stdlib/assert/is-array-like-object]: https://github.com/stdlib-js/assert-is-array-like-object
+
+[@stdlib/assert/is-collection]: https://github.com/stdlib-js/assert-is-collection
 
 <!-- </related-links> -->
 
