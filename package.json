@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "@stdlib/assert-is-collection": "^0.2.2",
-    "@stdlib/assert-is-function": "^0.2.2"
+    "@stdlib/assert-is-function": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-complex128": "^0.3.0",
